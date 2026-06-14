@@ -16,5 +16,6 @@ print(men_stepped_on_the_moon)
 
 ## Output
 <img width="773" height="188" alt="Screenshot 2026-06-14 at 10 57 13 PM" src="https://github.com/user-attachments/assets/63a6f6cb-6889-4717-9324-00a329f74fa9" />
+
 ## Result
 Thus , python code was successfully executed.
